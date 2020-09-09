@@ -87,11 +87,5 @@ this class holds the rest api endpoints for your application.
 Each endpoint has a reserved method to use. you annotate your methods in 
 this class using the path of endpoint 
 
-#####service 
-
-this layer just act as a middleware
-
-
-#####repository
 
 
